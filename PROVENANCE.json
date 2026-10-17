@@ -1,0 +1,22 @@
+{
+ "img/bridge.jpg": {
+  "tool": "higgsfield",
+  "prompt": "Golden Gate Bridge at sunrise from the headlands (job d929d55f)"
+ },
+ "snd/foghorn.mp3": {
+  "tool": "elevenlabs",
+  "prompt": "San Francisco foghorn (flow Z1YCYmSAfnwDwprzzEfF)"
+ },
+ "snd/bay.mp3": {
+  "tool": "elevenlabs",
+  "prompt": "bay ambience at sunrise loop (flow Z1YCYmSAfnwDwprzzEfF)"
+ },
+ "snd/wipe.mp3": {
+  "tool": "elevenlabs",
+  "prompt": "soft swoosh sweeping mist (flow Z1YCYmSAfnwDwprzzEfF)"
+ },
+ "snd/reveal.mp3": {
+  "tool": "elevenlabs",
+  "prompt": "joyful sunrise reveal chimes (flow Z1YCYmSAfnwDwprzzEfF)"
+ }
+}
